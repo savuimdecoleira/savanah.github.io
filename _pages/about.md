@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! I'm Savanah 🌳"
+title: "Savanah Franco de Freitas 🌳"
 author_profile: true
 redirect_from: 
   - /about/
