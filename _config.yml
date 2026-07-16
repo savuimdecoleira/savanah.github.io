@@ -8,43 +8,43 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Savanah Franco de Freitas Homepage"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Hi! I'm Savanah 🌳"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Savanah"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://savuimdecoleira.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "master/savuimdecoleira.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "savanah_trees.png"
+  name             : "Savanah"
+  pronouns         : "she/her"  
+  bio              : "Forest Engineer graduated from the Federal University of Amazonas, currently pursuing a Master's degree in Remote Sensing at the National Institute for Space Research (INPE). Acts as a researcher at the TRopical Ecosystems and Environmental Sciences Lab (TREES), investigating the resilience of secondary Amazonian forests subjected to extreme droughts through the Amazon-SOS: A Safe Operating Space for Amazonian Forests project."
+  location         : "São José dos Campos"
+  employer         : "INPE"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "engflorsav@gmail.com | savanah.freitas@inpe.br" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com.br/citations?user=4yDrm9UAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-6226-1669"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Savanah-Franco-De-Freitas?ev=hdr_xprf"
   scopus           : # URL
-  zotero           : # URL
+  zotero           : "https://www.zotero.org/engflorsav"
 
 
   # Repositories and software development
@@ -57,16 +57,16 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "@engflorsav"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/savanah-freitas-120750189/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
