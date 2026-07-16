@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome! Nice to see you here 🌳"
+title: "Welcome!🌳"
 author_profile: true
 redirect_from: 
   - /about/
